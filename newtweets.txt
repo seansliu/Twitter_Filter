@@ -1,0 +1,101 @@
+Date, Time, (Location), State, ZIP, "Text", Sentiment 
+2011-08-28, 19:02:28, (41.38626364, -81.49445069), OH, 44146, "yay. little league world series!", -0.375
+2011-08-28, 19:02:29, (42.531042, -82.90854831), MI, 48082, "i'm at holiday inn express suites & hotel roseville mi (31900 little mack ave., at masonic blvd., roseville) http://t.co/ebqpqgb", -0.4375
+2011-08-28, 19:02:29, (39.99230957, -75.13111973), PA, 19133, "@_tweetthis what dorm r you in?", None
+2011-08-28, 19:02:29, (54.10410612, 28.33601993), AK, 99723, "@andykozik круто !!!", None
+2011-08-28, 19:02:30, (19.47690987, -71.34471434), PR, 006XX, "@ninosh_flow jajajaj mi hermanasoooo", None
+2011-08-28, 19:02:30, (35.10675424, -92.4554156), AR, 72032, "your always on my mind", -0.5
+2011-08-28, 19:02:30, (40.9734356, -73.82695169), NY, 10707, "#nothingwrongwith having high standards...", None
+2011-08-28, 19:02:30, (47.611911, -122.335178), WA, 98101, "i'm at saigon vietnamese restaurant ii (1529 6th ave., at pine st., seattle) http://t.co/8s86hnx", None
+2011-08-28, 19:02:31, (30.19199153, -85.79712868), FL, 32407, "it feels absolutely amazing in #pcb today. making me giddy for fall :)", 0.0625
+2011-08-28, 19:02:31, (39.003433, -76.796367), MD, 20720, "this movie goes hard in the paint", -0.75
+2011-08-28, 19:02:31, (41.821341, -71.4897), RI, 02919, "carpet guy providence, ri free stain protector application when you clean fou http://t.co/orojmwu providence carpet & rug dealers #coupon", -0.25
+2011-08-28, 19:02:31, (29.5912325, -98.37046433), TX, 78247, "@aylatayla let me guess wing stop lol", None
+2011-08-28, 19:02:31, (40.7251406, -74.0681545), NJ, 07306, "i'm at burger king (748 bergen ave, montgomery st. & bergen ave., jersey city) http://t.co/vyjzmpd", None
+2011-08-28, 19:02:32, (41.821341, -71.4897), RI, 02919, "carpet guy providence, ri clean 3 rooms get your hallway and stairs cleaned f http://t.co/orojmwu providence carpet & rug dealers #coupon", 0.375
+2011-08-28, 19:02:31, (41.3092396, -105.5593645), WY, 82072, "first red bull sine june! and they were 2 gor $4!! http://t.co/vuomqa2", -0.375
+2011-08-28, 19:02:31, (47.63444424, -122.32711494), WA, 98102, "i'm at islander yacht http://t.co/6sxqhqw", None
+2011-08-28, 19:02:32, (42.09988503, -70.94278108), MA, 02382, "@bobbysparo eww #fspiders", None
+2011-08-28, 19:02:32, (29.98559028, -90.25736713), LA, 70062, "everybody here remember me when i was small", -0.3125
+2011-08-28, 19:02:32, (37.4084336, -77.6523109), VA, 23112, "when will the power come back!?? this is making my day so boring.", 0.0625
+2011-08-28, 19:02:32, (32.16157973, -110.95527828), AZ, 85714, "i just smile when he comes across my mind.... :)", -0.0416666666667
+2011-08-28, 19:02:31, (41.997047, -87.699612), IL, 60659, "after 23 years i still love this place. (@ tel aviv kosher pizza) http://t.co/jklp0uj", -0.0833333333333
+2011-08-28, 19:02:32, (40.8793076, -73.9102698), NY, 10463, "@therealcarolina @thecarlamarie and maybe a couple of "that bitch!" ones too. be safe out there.", -0.291666666667
+2011-08-28, 19:02:32, (30.3066286, -81.7423909), FL, 32205, "sigh...", None
+2011-08-28, 19:02:32, (41.4277631, -81.5235311), OH, 44128, "my love @vickichrissi_p came to c me :)", 0.625
+2011-08-28, 19:02:33, (30.20755602, -92.02341571), LA, 70501, "shit you see in the flats http://t.co/lkrltse", -0.25
+2011-08-28, 19:02:33, (30.27180651, -91.99432604), LA, 70507, "ok bak to napping i go", 0.125
+2011-08-28, 19:02:33, (32.9988088, -80.2111095), SC, 29485, "#np ♫ toot it & boot it (yg)", None
+2011-08-28, 19:02:33, (34.21237533, -78.0219711), NC, 284HH, "over.this.day", None
+2011-08-28, 19:02:34, (33.8619702, -117.87926674), CA, 92831, "i'm at the bruery (715 dunn way, placentia) http://t.co/9xpzonw", None
+2011-08-28, 19:02:33, (42.947069, -78.868401), NY, 14216, "netfirms, inc. buffalo, ny over 33% off netfirms business web hosting. build you http://t.co/wcbstos buffalo internet consultants #coupon", -0.0416666666667
+2011-08-28, 19:02:34, (34.20135228, -92.02567752), AR, 71603, "and they wonder y i call males my friends!!", 0.25
+2011-08-28, 19:02:34, (25.95591814, -80.27060693), FL, 33055, "now introducing ==&gt; @miamistarlet30 &lt;== follow her", None
+2011-08-28, 19:02:34, (43.75756, -79.4893), NY, 14174, "gonna mis ma cuz still, we clicked", -0.625
+2011-08-28, 19:02:34, (42.955917, -87.910785), WI, 53221, "i'm at faith builders international w/ @annette748 http://t.co/owlnxug", -0.5
+2011-08-28, 19:02:34, (37.54359862, -121.98543477), CA, 94536, "i'm at petsmart (39410 argonaut street, fremont) http://t.co/vmgpmkn", None
+2011-08-28, 19:02:34, (43.52252783, -84.13494937), MI, 48623, "tree tweet!:3", None
+2011-08-28, 19:02:34, (36.10595637, -78.29837608), NC, 27549, "@fort_sanders910 let me stop b4 u start gettin all emotional like jeremy hahaha", 0.208333333333
+2011-08-28, 19:02:34, (29.78935752, -95.46498492), TX, 77055, "@tyysoincredible lol naa since you said that, your gonna get it", None
+2011-08-28, 19:02:35, (30.417636, -86.65718), FL, 32548, "i'm at sbarro pizzeria (mary esther) http://t.co/u3zvhpp", None
+2011-08-28, 19:02:35, (38.81712746, -76.98108854), MD, 20745, "we need to be on espn", None
+2011-08-28, 19:02:35, (39.25055759, -94.6628648), MO, 64154, "i'm at zona rosa (8640 n dixson ave., kansas city) w/ 5 others http://t.co/djg0gjr", None
+2011-08-28, 19:02:35, (30.2073014, -95.5317022), TX, 77382, "is every1 ok", 0.375
+2011-08-28, 19:02:35, (40.03083333, -75.18638889), PA, 19144, "thanks for checkin up ppls :) rt @yoogabbagabba_: hope @murdermanymarty & @fastlife_ferg92 are iight. ain't heard from them since friday =/", None
+2011-08-28, 19:02:35, (46.48826749, -80.99216398), MI, 49726, "wow #mushrooms are good but terrible on the guts", 0.208333333333
+2011-08-28, 19:02:36, (42.3243924, -71.0659454), MA, 02125, "sen on di gyal dem wi di buff", None
+2011-08-28, 19:02:36, (30.40183132, -84.10482877), FL, 32311, "holla @ me ;)", None
+2011-08-28, 19:02:36, (41.29866963, -81.91532933), OH, 44028, "work needs to fly by ... i'm so excited to see spy kids 4 with then love of my life ... arreic", 0.1
+2011-08-28, 19:02:36, (33.51813, -86.853414), AL, 35204, "i'm at hilltop village apartments-birmingham southern college (900 arkadelphia road, birmingham) http://t.co/vyowruo", None
+2011-08-28, 19:02:36, (42.10651087, -88.112748), IL, 60195, "i'm at the house of pooh (4569 topaz dr, hoffman estates) http://t.co/ek5lvx4", None
+2011-08-28, 19:02:37, (37.83599102, -122.21972697), CA, 94611, "anything you need you can find it at the market", 0.625
+2011-08-28, 19:02:37, (41.59449001, -81.53513182), OH, 44119, "@treetrunks_ lol you right", 0.25
+2011-08-28, 19:02:37, (41.6871915, -87.6693591), IL, 60643, "if u really cared miles couldn't even seperate us...", 0.5
+2011-08-28, 19:02:37, (27.813993, -82.773112), FL, 33708, "key time locksmiths st petersburg, fl any locksmith services that provides to http://t.co/gjcdzya stpetersburg locks & locksmiths #coupon", None
+2011-08-28, 19:02:37, (31.78093117, -106.49940043), TX, 79902, "@queenalexis_16 haha really why not?", 0.0
+2011-08-28, 19:02:37, (34.0400238, -117.50127785), CA, 92337, "quien quiere invitación a google plus. ?", 0.625
+2011-08-28, 19:02:37, (19.59047832, -99.0342782), TX, 78520, "jaja como no te voy a querer... meterte la verga de hule en tu casa jajaja pobres pendejos #siempreazul @cruz_azul tomenla putas gatas jaja", -0.25
+2011-08-28, 19:02:37, (34.07069788, -117.68699053), CA, 91763, "things change that's life", None
+2011-08-28, 19:02:37, (42.06740368, -87.69036332), IL, 60201, "rehearsing #ihatetommyfinch! go to tellofilms.com for more info on tickets for this amazing chicago event! http://t.co/c9jmn1q", 0.25
+2011-08-28, 19:02:38, (29.5256393, -95.1287099), TX, 77598, "@kristenjea was he old", 0.375
+2011-08-28, 19:02:39, (29.7791046, -95.3264607), TX, 77020, "slide up in it, slippery when wet", None
+2011-08-28, 19:02:39, (34.08300134, -117.76549816), CA, 91768, "dood....fair job for me? plz? yeah? (@ fairplex) http://t.co/0b1wffd", None
+2011-08-28, 19:02:40, (34.0447, -118.26670772), CA, 90015, "i just ousted @melvinp as the mayor of jw marriott pool 4th floor on @foursquare! http://t.co/qianbhe", 0.25
+2011-08-28, 19:02:39, (33.98901278, -83.43992721), GA, 30607, "@izzypro_banqin mwah ma ", None
+2011-08-28, 19:02:40, (47.44364658, -122.30259418), WA, 98148, "i'm at seattle-tacoma international airport (sea) (17801 international blvd., s 188th st, seatac) w/ 98 others http://t.co/mdxjdyi", -0.5
+2011-08-28, 19:02:40, (38.847144, -76.9884507), DC, 20032, "@luscious_lips19 lmao", None
+2011-08-28, 19:02:40, (31.72274, -89.14879), MS, 39440, "great meal or i was jus hungry", -0.25
+2011-08-28, 19:02:40, (19.47690987, -71.34471434), PR, 006XX, "@ninosh_flow mas o menooo", None
+2011-08-28, 19:02:40, (35.16785836, -94.67223179), OK, 74951, "@lori_poindexter happy trails to you!", 0.375
+2011-08-28, 19:02:41, (35.0367007, -79.0579936), NC, 28314, "thanks for the free pizza ill eat it whn i wake bak up..i dont feel well", -0.15625
+2011-08-28, 19:02:41, (34.74037824, -92.37275652), AR, 72204, "@42courtney #soowoooo i heard somebody!", -0.25
+2011-08-28, 19:02:41, (39.0845006, -76.8173348), MD, 20724, "just talked to my male bestfriend.its always good talking to him!", 0.75
+2011-08-28, 19:02:41, (40.66635829, -73.85900223), NY, 11208, "@nikkirose haha yea good times !", 0.541666666667
+2011-08-28, 19:02:42, (44.73223528, -93.22228908), MN, 55124, "bailey's fav. (@ panda express) http://t.co/jspk93z", -0.5
+2011-08-28, 19:02:42, (39.7415336, -75.5631174), DE, 19801, "i needa roll up w/ my twin.", -0.25
+2011-08-28, 19:02:43, (41.5791772, -87.6095613), IL, 60476, "@oopstookyobtch lol u can come", None
+2011-08-28, 19:02:43, (40.79244567, -74.06544711), NJ, 07094, "there safe now ! http://t.co/ztjen6c", 0.625
+2011-08-28, 19:02:43, (34.77707147, -86.57509803), AL, 35810, "i gotta stay to myself...", -0.25
+2011-08-28, 19:02:44, (35.80060604, -120.74882763), CA, 93451, "offload", None
+2011-08-28, 19:02:44, (40.7066149, -73.7905397), NY, 11432, "@holasoycarito me too i love it saludos desde n.y guapa", 0.1875
+2011-08-28, 19:02:45, (39.91804029, -76.70432763), PA, 17403, "so much easier to dress for blue skies:-)", 0.25
+2011-08-28, 19:02:45, (35.99137525, -84.0103273), TN, 37912, "my lil girl tweet stealn", None
+2011-08-28, 19:02:45, (42.380418, -83.1158237), MI, 48206, "#blowed", None
+2011-08-28, 19:02:45, (41.4987, -75.69686), PA, 18411, "daniel 3:8-30 @timtebow @bubbawatson", None
+2011-08-28, 19:02:46, (36.29069235, -76.21815312), NC, 27909, "@quisha_genay24 huh", None
+2011-08-28, 19:02:46, (36.7353598, -110.2419182), AZ, 86033, "r.i.p. dj a.m.", None
+2011-08-28, 19:02:47, (29.98559028, -90.25736713), LA, 70062, "i had braids", -0.25
+2011-08-28, 19:02:47, (20.72216006, -103.31901312), TX, 78545, "i just ousted @carlosserna as the mayor of sam's club independencia on @foursquare! http://t.co/wr5vdjl", 0.1875
+2011-08-28, 19:02:47, (20.72216006, -103.31901312), TX, 78545, "compras y mas compras... (@ sam's club independencia) http://t.co/vhkpjfv", None
+2011-08-28, 19:02:47, (19.623173, -99.237724), TX, 78520, "camino a... pensando si talvez... (@ bosques del lago) http://t.co/gzkdwyw", None
+2011-08-28, 19:02:47, (38.16182601, -122.45756149), CA, 94945, "great day for racing (@ infineon raceway for indy grand prix of sonoma w/ 36 others) [pic]: http://t.co/l9odh7y", 0.25
+2011-08-28, 19:02:47, (36.0798278, -79.7652265), NC, 27401, "@guybeburpin i feel yu i got a couple things to do", -0.25
+2011-08-28, 19:02:47, (50.480587, 30.6348636), AK, 99723, "@marmeladovna Нормальная шняга в 10 ложиться спать, если надо проснуться в 3.", None
+2011-08-28, 19:02:47, (40.32655136, -74.40619042), NJ, 08831, "@liliestefan esto es en old bridge nj http://t.co/vt7yuwt", 0.375
+2011-08-28, 19:02:48, (29.66423049, -95.27795377), TX, 77061, "@_sharnaee lol hahahaha i'm bored", None
+2011-08-28, 19:02:48, (40.818948, -73.9608568), NY, 10027, "bike ride after #irene @ west harlem piers park http://t.co/lryjrgd", None
+2011-08-28, 19:02:48, (29.9477474, -90.1300803), LA, 70118, "oak st. has come a long way in the 10 years since living at oak & cambronne. (@ tru burger w/ 2 others) http://t.co/450n0vj", None
+2011-08-28, 19:02:48, (29.5863585, -98.6229114), TX, 78249, "@jumpmann_23 leaving the field", None
+2011-08-28, 19:02:48, (47.68904205, -122.141196), WA, 98052, "i'm at overlake christian church (9900 willows rd ne, redmond) w/ 5 others http://t.co/0novheq", None
+2011-08-28, 19:02:48, (32.94387581, -96.64631546), TX, 75044, "lunch with @krystalomgz and @micheleeebarker (@ sali's pizza) http://t.co/9cj1ue3", None
+2011-08-28, 19:02:48, (35.1308588, -89.7702757), TN, 38018, "@darryltheworld it feels great outside", None
